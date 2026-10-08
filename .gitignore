@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# artifact from mac that we don't want to version control
+.DS_Store
